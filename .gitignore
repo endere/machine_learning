@@ -99,3 +99,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+boston_housing_data.csv
+analyze.ipynb
